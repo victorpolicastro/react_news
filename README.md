@@ -7,5 +7,5 @@ React project that receives news from NewsAPI
 3. Access, via browser, http://localhost:3000
 
 //TODO
-1. Filter by source;
+1. Filter news by source;
 2. Unit test.
